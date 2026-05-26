@@ -39,10 +39,6 @@ Sou apaixonado por tecnologia e pelo universo do desenvolvimento de software. Ac
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriiFreitass&theme=tokyonight)
-
 ---
 
 ## 🚀 Projetos em destaque
