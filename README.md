@@ -42,8 +42,8 @@ Sou apaixonado por tecnologia e pelo universo do desenvolvimento de software. Ac
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YuriiFreitass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiFreitass&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YuriiFreitass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiFreitass&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
