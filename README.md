@@ -46,7 +46,7 @@ Sou apaixonado por tecnologia e pelo universo do desenvolvimento de software. Ac
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [🛒 sistema-pedido](https://github.com/YuriiFreitass/sistema-pedido) | Sistema de pedidos com POO, herança, polimorfismo e formas de pagamento | Java |
-| [📚 api-biblioteca](https://github.com/YuriiFreitass/api-biblioteca) | API REST para gerenciamento de livros desenvolvida com Java, Spring Boot, MySQL e Spring Security.
+| [📚 api-biblioteca](https://github.com/YuriiFreitass/api-biblioteca) | API REST para gerenciamento de livros desenvolvida com Java, Spring Boot, MySQL e Spring Security. | Java | | Spring Boot |
 
 ---
 
