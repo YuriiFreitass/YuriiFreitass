@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Desenvolvedor em formação • Apaixonado por tecnologia • Em constante evolução 🚀
+  Desenvolvedor Java Backend • Apaixonado por tecnologia • Em constante evolução 🚀
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Sou apaixonado por tecnologia e pelo universo do desenvolvimento de software. Ac
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)"/>
 </p>
 
 ---
